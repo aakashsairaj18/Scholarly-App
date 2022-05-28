@@ -1,11 +1,11 @@
 # Scholarly-App
-Scholarly App by P B Aakash Sai Raj
+### Scholarly App by P B Aakash Sai Raj
 
 My Website link: https://black-coast-020d57410.1.azurestaticapps.net/ 
 
 I developed the website using HTML, CSS, and Javascript. The website's goal is to serve users with online courses made by top educators. It has four pages. They are "Home", "About us", "Courses", "Contact us" pages. It is tough to find the right online course to learn a new skill. But Scholarly makes this easier by providing the best courses taught by top educators. The website design looks simple and beautiful, So it will be easier for the user to choose courses. The website has a wide range of courses related to arts, tech, marketing, etc. If the user has doubts regarding any lessons, they can reach out to the support section. The main agenda of this project is to provide users, especially students, with the best courses so that they can easily understand the topics and learn new skills.
 
-Screenshots of the website:
+### Screenshots of the website:
 ## Home Page
 ![home01](https://user-images.githubusercontent.com/88073526/170846013-db30b75d-aec6-436e-988e-2c67c2b690a5.jpg)
 
